@@ -1,10 +1,24 @@
 
+Product based vs Project based
+----------------------------------
+
+Spotify Org Design:
+-----------------------
+Team = Squad
+
+Many Squads together working on Similar things like Feature Development/ Infrastructure / Deployment & Tooling = Tribe
+
+Each member is also a part of Chapter - Ex: DB Chapter / Web Development Chapter / Backend Developers Chapter
+
+There also exist Guilds - Community of Practice.
+
 Open Space Beta
 ----------------------------------
 - An open source Social Technology for Organization change/ structure / Development.
 Used for Change Management.
 
-Timebox the change.
+Timebox the change. 
+60 days for Prep | meeting 1 | 90 Days of actual work | meeting 2 retro | quiet period 30 days
 
 Based on:
 Managing Transitions - by William Bridges
