@@ -1,0 +1,23 @@
+Shift-Left Testing
+
+That last week isn’t a test week. 
+
+Most projects, even with agile teams, feel like testing is the last step in the process. We happily get development collaborating with product folks early in the process and build the product in smaller bits, but testing early is a struggle. Squeezing testing in at the end creates problems.
+
+Testers join design sessions to ask questions about how customers work.
+Some team members can work closely with back-end developers to ask questions and create test ideas and 'what if' type scenarios. (Exploratory Testing)
+Others sit down with the API developers and stub out tests for new services while they were being developed. (Need to have Technical Leaning)
+And yet others find themselves pairing up with the UI and API developers to test something new on their machine before it hit a build.
+
+Testing may still happen at the end, but it will be smaller and faster because of the problems you are able to find earlier on. Shift left doesn't exactly move testing closer to the beginning of a release cycle. It sprinkles it over each step and each iteration.
+
+Managing Test Activities:
+People get some weird ideas about managing testing when it gets cut out of the development pie. Managers try to get a gauge on tester performance by measuring things like bug count, and the number of tests run in a day. And the development team somehow starts thinking that running out of documented tests means that we are getting closer to a release. When teams help testing happen earlier, those things just sort of go away.
+
+
+
+
+
+
+
+
