@@ -14,6 +14,11 @@ Testing may still happen at the end, but it will be smaller and faster because o
 Managing Test Activities:
 People get some weird ideas about managing testing when it gets cut out of the development pie. Managers try to get a gauge on tester performance by measuring things like bug count, and the number of tests run in a day. And the development team somehow starts thinking that running out of documented tests means that we are getting closer to a release. When teams help testing happen earlier, those things just sort of go away.
 
+How to do?
+BDD (BDD frameworks like Cucumber, SpecFlow and JBehave)
+Automated Testing
+
+
 
 
 
