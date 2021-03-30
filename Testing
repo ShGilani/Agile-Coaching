@@ -1,3 +1,6 @@
+The concept behind “shift left” and “shift right” is excellent and is the focus of the agile and DevOps approaches. 
+But modern software development is no longer a linear process, so what does left and right mean?
+
 Shift-Left Testing
 
 That last week isn’t a test week. Testing isn’t a phase, it’s an intrinsic part of development.
@@ -16,7 +19,29 @@ People get some weird ideas about managing testing when it gets cut out of the d
 
 How to do?
 BDD (BDD frameworks like Cucumber, SpecFlow and JBehave)
+TDD
 Automated Testing
+
+Shift right:
+By “shift right”, people mean that they aren’t going to just throw the feature over the wall to ops when it deploys,
+they’re going to monitor, observe, analyze log data, and “test in production”. DevOps drew our attention to the need to keep testing even when the new changes are deployed to production. 
+We can use feature toggles and other means to manage our changes until we’re satisfied they’re working correctly in production.
+
+****Infinity Symbol: There’s no beginning, there’ll be no end (hopefully!) 
+Modern software development is an infinite loop of developing small chunks of features, getting feedback as they are used in production (perhaps by a small number of people), and continuing to add, remove, and change them based on what we learn from the feedback. 
+
+Discover | Deliver --- 2 sides of infinity loop
+
+Testing plays a major part on both sides of this building and learning loop.
+
+Because today’s software development is continual, we now talk about “continuous testing”
+
+When we say “shift left” today, we’re really referring to the left loop of the infinite loop of software development and delivery. 
+And when we “shift right”, we’re engaging in that right-hand loop. 
+
+Rather than focusing our testing on the time when a release candidate is built and delivered, we widen our scope left and right.
+
+
 
 
 
