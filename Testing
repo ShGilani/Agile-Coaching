@@ -1,6 +1,6 @@
 Shift-Left Testing
 
-That last week isn’t a test week. 
+That last week isn’t a test week. Testing isn’t a phase, it’s an intrinsic part of development.
 
 Most projects, even with agile teams, feel like testing is the last step in the process. We happily get development collaborating with product folks early in the process and build the product in smaller bits, but testing early is a struggle. Squeezing testing in at the end creates problems.
 
