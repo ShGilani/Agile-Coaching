@@ -1,1 +1,68 @@
-Need to create an Ecosystem which is conducive to agility.
+Need to create an Ecosystem/Culture which is conducive to agility.
+Agility needs the right culture to thrive. right interaction with the right people.
+
+Anti-Patterns:
+----------------------
+1. Sprint Planning:
+No or unclear Sprint Goal
+Disconnected PBIs
+
+like a Ship with no compass, no direction, no wind and no known destination. / Alice in Wonderland
+
+Good Practices/Patterns:
+Team crafts the Sprint Goal and votes for confidence:
+Team plans for capacity, considers velocity and forecast and then 'Vote of Confidence' by all about is this forecast realistic, achievable in this Sprint. How confident are we?
+
+2. Flow of value being very slow.
+i.e high cycle time, too many actice PBIs (WIP), PBIs not done in the Sprint. Getting Stuck, not pushing to Production often, Context switching, 
+just development done (not really done), Risk of inventory
+
+Good Practices/Patterns:
+WIP Limit
+Kanban board
+Use Cumulative Flow Diagram
+Ageing of Stories
+Mid-Sprint Reviews
+Refinement/Story slicing
+Paired/group of developers - PBI ownership - ownership to move the PBI through all steps untill prod and not just dev.
+
+3. Siloes of Knowledge / Knowledge Hoarding
+Team Members expert in an area, Specialists, not sharing knowledge.
+Team felt crippled when the Expert is on Vacation/ sick
+Waterfall thinking - Assembly line - 1 person does work and pushes the work item fwd
+
+ID the single points of failure
+Seek out training
+"Office Hours" / Dedicated hours to work along with Peers to learn from them
+Confluence/Recorded videos in Repository
+Lunch and Learns
+Collaboration, Mob Programming, Pair Programming , rotating the pair
+Cross Training to develop T-shaped skills
+Situation based interview by Scrum Team to guage cultural fit. We are not here to optimize for ur comfort.
+
+4. Inter-Team Dependencies
+Deployment/Ops/Patching Dependencies
+DB Restores, Env Patching 
+
+Confluence documentation/Board instead of verbal; It should be a planned activity to have less impact.
+Nexus/ Scrum of Scrum - Elevate the transparency to Org level
+
+5. Production Deployment
+Go-live Release - Go live play book from earlier release
+Confluence can be used to Crowd Source the bottom up intelligence of the Team. Scrum/Agile core belief: The People who are doing the work has the wisdom.
+We can use process/tools to unleash/tap the collective bottom up intelligence. tag feature of confluence.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
