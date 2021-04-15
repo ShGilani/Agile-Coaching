@@ -17,6 +17,66 @@ Data is brought through Scrum Artifacts: Product Backlog (PO accountability) | S
 
 For Complex work, there is no expert. there is no right answer.
 
+SM serves PO, Developers, Org.
+Developers serves PO
+PO serves Customers/Stakeholders
+
+
+1 Product Owner - many Product Managers
+PO can take help of SMEs. But he/She is the Decision Maker.
+
+Accountability Vs Responsilibity
+Responsibility can be delegated but not the accountability.
+
+What is Scrum: 3-5-3-3-3
+
+Who can add PBIs to the Product Backlog? : Any one can add. But the accountability of Ordering lies with PO.
+
+When the Sprint ends, unfinished PBIs goes back to Product Backlog.
+
+The Top PBIs in Product Backlog are the ones "refined", The items below are unrefined/ vague/raw.
+
+Product Refinement happens ( may be not as a meeting, but discussions, involving as required ppl) to get clarity on "WHAT"
+Sprint Planning happens after Product Refinement, focusing on "How"
+
+ Transparency | Inspection | Adaptation ----------- are the pillars of Empericism
+ 
+ Stakeholders: Investors | Customer | Consumers | Govt./Legal |
+ 
+Invite Manager to the Sprint Review.
+Otherwise my Team will start inflating the numbers. Trust the Team.
+We are working in a Complex Domain. These are our Impediments. Help us resolve them.
+Velocity is a measure of Progress not Productivity. Its operational Metrics.
+
+Create a Foundation of Trust in your Ecosystem. Psychological Safety and not culture of Fear by living the Scrum Values.
+As a SM, I trust my Team, I trust my PO.
+
+*** Developers forecast the Sprint Backlog and commit to the Sprint Goal.
+
+What are the complementary practices?
+Kanaban board, velocity, estimation, automation, pair programming
+
+You can use/ignore as needed. Dont let it interfere/ hindrance to empiricism/agility.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
