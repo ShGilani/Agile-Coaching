@@ -222,7 +222,11 @@ Increment Transparency is reflected when DoD is visible and understood.
 ---------
 
 Event | What is Inspected | What is adapted
-
+Sprint Review | Increment | Product Backlog
+Sprint Retro | DoD | Sprint Backlog
+Sprint Planning | Product Backlog | Sprint Backlog
+Daily Scrum | Sprint Goal | Sprint Backlog
+Sprint | 
 
 ------
 
@@ -230,7 +234,7 @@ Increment:
 
 incements gradually........ big --> bigger
 
-********* All the Scrum Team is accountable fo rthe Increment
+********* All the Scrum Team is accountable for the Increment
 
 --------------
 
@@ -259,10 +263,10 @@ half-baked / half-done Items are of no value
 
 What is the give-away word?
 
-Acceptance Criteria ---- Scrum Team is accountable???
+Acceptance Criteria ---- Scrum Team is accountable??? not just PO
 
 ----------
-Output is based on th estage Team is in
+Output is based on the stage Team is in
 Bru Stuckman Mode - Team: Forming - Storming - Norming - Performing
 
 ---
