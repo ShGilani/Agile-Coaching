@@ -1,0 +1,50 @@
+Nexus Framework:
+--------------------
+
+When multiple (3 to 9) Scrum Teams are working on one product  
+It allows the Teams to unify as one larger unit, a Nexus
+Nexus augments Scrum minimally with one new role  [Nexus Integration Team (NIT)] and some expanded events and artifacts. It preserves Scrum. 
+
+The framework focuses rigorously on 2 core scaling matters: 
+cross-team dependencies
+integration issues
+
+NIT - is accountable for the successful integration of all work created by all the Scrum Teams in a Nexus.
+and ensures that an Integrated Increment is produced at least every Sprint.
+
+Activities may include: 
+Identifying cross-team issues, 
+Raising awareness of dependencies early,
+and ensuring integration tools and practices are understood and used. 
+In emergency situations, the NIT may actually do the work in order to fulfil their accountability. 
+
+NIT Composition:
+PO + Scrum Master + Members/representatives of all the scrum team.
+Composition of the NIT may change over time with exception of the Product Owner. 
+NIT membership may be full or part time. It should take precedence over other accountability.
+
+Refinement is a formal event. The number, frequency, and duration of
+Refinement meetings will vary based on the dependencies in the Product Backlog
+
+
+Nexus Daily Scrum. This is a brief meeting that happens before each individual Scrum Teams’ Daily Scrums. make integration issues transparent at least once a day.
+
+The Nexus Sprint Review replaces the individual Scrum Team Sprint Reviews.
+
+Nexus Sprint Retrospective - 3 part event - 
+NIT meet to identify shared challenges
+Individual Retrospectives
+NIT - action on the shared challenges
+
+Nexus Sprint Planning - 2 part
+1. collaborative activity where each team in the Nexus selects their work for the Sprint.
+2. Individual Sprint Planning
+
+Visualization Boards: 
+https://scrumorg-website-prod.s3.amazonaws.com/drupal/2020-06/Visualizing%20the%20Nexus%20Sprint%20Backlog.pdf
+----------------------------
+a. Cross-Team Refinement board
+b. Nexus Sprint Backlog
+
+Dependency Arrows
+Color coding
