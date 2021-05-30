@@ -190,6 +190,153 @@ Yes, team is aware, has clarity and visibility on this
 No, we do not know, and we don't know who knows this, whom to ask
 Product Owner or Manager was clearly aware and could answer our questions
 
+How much do u manage Talent?
+------------------------------------------
+Software development requires high-quality talent that not only has the required functional knowledge and technical skills to perform the tasks but also possesses the mindset of problem-solving, and associated soft skills that enable an individual to operate as part of a high-performance team. In a new-age agile organisation, the nature of skills required is far different from a traditional one, and thus it is critical to identify those differences, and align the people practices to new set of capabilities to ensure the change is effective, far-reaching and self-sustaining in the long run. While several of these might require active involvement and ownership of line manager and functional experts, the role of change enabler is in being able to articulate pre-conditions for a successful and effective change result, and align various constituents to work in unison.
+
+
+Hiring criteria: When hiring team members, what does the hiring team focus on? (Check all that apply) *
+Proficiency in specific technology, technical skills
+Certifications in case of agile enablers
+Soft skills such as presentation, communication, interpersonal skills and leadership
+Competencies and mindset such as emotional intelligence & stability, problem solving, continuous learning, adaptability
+Agile Ways of working: design thinking, story mapping, story authoring, product discovery, applications of lean & agile pr
+Software Craftsmanship: Clean code, unit testing, automation, CICD practices, TDD
+
+Hiring decision: Who all are involved in making the final decision on a new hire ? *
+Hiring Manager
+HR
+Division Head
+Team
+Customer
+Peer group representatives
+
+Mentoring: What is the time duration for which an individual is assigned to every new team member to help them familiarise with the organization, business, product, technical and project details etc ? *
+30 days
+60 days
+90 days
+> 90 days
+Not done
+< 30 days
+
+Role: How is each individual assigned a role in the team ? *
+Fixed role decided by the manager based on their job description or the title
+Fungible role decided by the manager based on project needs that remains same for a reasonable length of time
+Generalising specialist role decided by the team based on key skills and broader team requirement
+Generalising specialist role decided by the individual themselves based on their key skills, broader team requirements and their own self-directed learning interests
+
+Goals: Is percentage of goals assigned for: (a) individual performance (b) team performance (c) customer feedback (d) organisational performance goals (e) new learning (f) initiatives or new ideas? *
+Yes
+It doesn't work like this in our Org
+We are not aware
+
+Work allocation: The work is assigned by *
+Manager
+Architect or Tech Lead
+Team Lead
+Team consensus
+Open allocation, i.e. by self volunteering
+Project/ Program Manager
+Client /Customer/Sponsors
+
+Tracking: Who tracks the work of an individual team member *
+Manager or LeadFeedback frequency: the frequency is *
+Annual
+Bi-annual
+Quarterly
+Every month or 1-2 sprints
+Every sprint
+Real-time
+
+What best describes the nature of performance discussion that you have with your manager?
+Rating discussion
+Discussion around goals that were met, achievements and areas of improvement
+Discussion around my career progression & my developmental plan in the organization
+Discussion around goals progress as well as competencies that helped to achieve the goals, my next steps
+
+
+Architect or Tech Lead
+Team
+Scrum Master
+Self
+Client /Customer/Sponsors
+
+Deliver results: How individual delivers results, and it's assessment is done? *
+Entirely depends on Manager, he does assessment
+There are clearly defined metrics and we all have clear understanding of the same
+Client /Customer/Sponsors
+
+Performance feedback: the individual gets feedback on his/her work and performance from *
+Manager
+Team members
+Scrum master
+Client /Customer/Sponsors
+
+Feedback frequency: the frequency is *
+Annual
+Bi-annual
+Quarterly
+Every month or 1-2 sprints
+Every sprint
+Real-time
+
+What best describes the nature of performance discussion that you have with your manager?
+Rating discussion
+Discussion around goals that were met, achievements and areas of improvement
+Discussion around my career progression & my developmental plan in the organization
+Discussion around goals progress as well as competencies that helped to achieve the goals, my next steps
+
+How do u organize Teams:
+---------------------------------
+
+In modern-day software development, the standard unit of software development is a team. While individual talent is almost always mandatory, a far more powerful indicator of success is how well a team performs. In an agile organisation, the teams are elevated to a functionally-independent and fully autonomous units. However, the transformation to such units is neither automatic nor swift. It requires working with several key stakeholders to make commensurate changes to structure, process and culture to make it happen.
+
+Team size: What is the average team size at each location (in case of distributed teams)? *
+3-6
+7-10
+11-15
+16-20
+20+
+
+Team Structure: Teams at each location are *
+Permanently organized functionally (i.e. Dev in one team, QA in another team, etc.)
+Temporarily organized as a matrixed team (i.e., individuals are drawn from their functions and assigned to a manager per project
+Permanently organized as cross-functional teams at each location (i.e., in a team, there are individuals from Dev, QA and any other functions as required)
+A mix, QA-Dev primarily in one team and other skills such as DevOps, UI, data science organised functionally
+
+Self-organizing: When there is a gap in a critical skill in the team or a new opportunity that needs a skills not currently available, the team manages by *
+Dropping that feature, component or opportunity in the given delivery cycle because it doesn't have that capability
+Train or ask someone else to back-up and manage the gap
+Get someone from another team to fill the gap on a temporary basis, or hire a new staff
+Proactively cross-train all staff for key skills or opportunity forecast to mitigate such possibility in the medium to long term
+
+Self-sustaining: If your team is left all by itself without any external enabler or expert, how soon before they fall back to the old ways of doing things? *
+Immediately
+Next delivery cycle (e.g. next sprint)
+Next quarter
+Next year
+Never (i.e., they will continue to work in agile / lean mode by themselves forever)
+
+Team Location: *
+Co-location
+Distributed
+
+Role of Manager: How do the managers respond to their new roles in an agile organization? *
+They feel insecure that the authority of command & control will go away. They feel obsolete with the new way of alignment of scrum teams
+They continue to ask for "status, follow-up" and interact with individuals and sub-teams, they still make committments on team's behalf. They continue deeper involvement to "Get the job done"
+They continue to support the team with reviews of design-approach-architecture-plans, coaching and training on the new technologies
+They look for job options in the organisations where they can continue with their old profile
+
+Which of the following best indicates the structure of your team and organization? *
+1. Bureaucratic
+2. Few scattered Agile Teams. Entire Org is not Agile.
+3. Multiple Agile Teams, but Org is bureaucatic
+4. Organization as a network of Agile Teams
+
+How do u build Products:
+---------------------------------
+In the agile world, building products requires a different thinking compared to waterfall era. How exactly do you, or your team goes about articulating product vision, laying out product roadmap, and executing on it?
+
 
 
 
