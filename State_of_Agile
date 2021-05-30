@@ -1,0 +1,143 @@
+How do you build products?
+-------------------------------
+In the agile world, building products requires a different thinking compared to waterfall era. How exactly do you, or your team goes about articulating product vision, laying out product roadmap, and executing on it?
+
+Vision: There is a product or project vision that acts as the "True North" for the team and is uniformly understood by the entire team? *
+Yes
+No
+
+Product Discovery: is a: *
+One-time process undertaken at the start of the project where all product requirements are identified
+A process where product requirements are continuously "discovered", analysed, prioritised, implemented and validated throughout the lifecycle of a product
+There is no such process, phase or step in our organization
+
+Product requirements are derived from : *
+Founder's or Product Manager's vision
+Market Research captured as a PRD at the start of the project
+A high-level product backlog that gets inputs from market, support, etc.
+There is no such document. we basically believe in "welcoming changing requirement" so allow change in requirements whenever it happens
+
+Product roadmap: What mechanism your organisation follow to prioritize features on the release timeline that helps teams plan their work as well as for accommodating changes commensurate to the planning horizon? *
+Product discovery & PI Planning
+No fixed cadence
+Continuous planning
+Other:
+
+Non-functional requirements: The product manager captures non-functional requirements at the same time as functional requirements with team? *
+Yes
+No
+Somewhat
+
+How does the business prioritize change initiatives?
+--------------------------------------------------------------
+An agile business is not just about always optimizing itself to adapt to the most business-critical requirements, but also leverage its strengths to exploit any unforeseen opportunities. How does your business prioritize such changes initiatives so maximize its alignment with top-level business goals?
+
+Reason: The business has decided to go agile because of: *
+Industry trend
+It has been asked by the customer
+Marketing or competitive reasons
+Improving internal efficiency such as code quality or test coverage or velocity
+Its need to improve market performance on responsiveness, on time to market, or quality, or cost, etc.
+Management wants faster deliveries and predictable releases
+Business has not asked to go agile
+
+Benefits: The business is primarily looking for benefits in terms of: *
+Efficiency, eg. higher quality, improved time to market, lower costs, higher profits, improving attrition, etc.
+Effectiveness, eg. more marketshare, higher revenues, better customer experience, high employee participation, etc.
+Excellence, eg, building a learning organization, creating a culture of innovation, high employee engagement, etc.
+Impact, beyond organization, benefits to society, nature, social cause and bigger purpose
+
+How is the organisation aligned to change initiatives?
+---------------------------------------------------------------
+
+How much aligned is your support functions with the enterprise transformation? Like HR, SALES, ADMIN, INFRA , Legal etc. to absorb the changing needs
+
+How are the following support functions aligned to agile transformation initiatives. (In brackets find some evidence of how they can be made a part of mainstream transformation and change initiatives) *
+
+HR (Culture Building, Competency Building, Mentorship and Coaching Programs)
+Sales (Selling strategic advantages, value driven roadmaps, transformation, partnerships to customers)
+Customer Support (Gather customer feedback more aggressively)
+Finance (Beyond Budgeting)
+Admin (Build Workplaces and facilities to nurture collaboration & creativity)
+IT (Services and tools to support collaboration)
+Pre-sales and Markeeting (Create Proposals and Contrast to leverage agility)
+Legal
+Public Relations & Communications
+
+How does the leadership support change initiatives?
+--------------------------
+
+The role of leadership in any organisational transformation can never be understated! While it might manifest in terms of according the right priority, making the right set of individuals available for it and organising resources and funding for the same, it goes much deeper than that! It might often be invisible in terms of creating the right climate where respect and trust is practised, leading to engaged individual and committed teams working on meaningful work. Or it is visible by their presence and involvement in sweating out the details and the boring stuff - conducting reviews and holding the teams accountable to a gold standard, getting involved when required, giving feedback to teams to help them become better, etc.
+
+Leadership acknowledges following aspects of agile transformation as a change initiative and is committed to making it successful *
+
+Acknowledging that Ways of Working across the board (including leadership needs to change)
+Recognises need to investing in change management practices
+Invests in mentoring and coaching leaders for leading organisations of the future
+Inveests in building right competencies in its people for agile transformation
+Has gone through Executive Briefing on agile & lean practices
+Curate long term vision relating organisations, business & strategy goals and agility
+Commitment to creating the right climate for a open, transparent
+Involved in periodic reviews and assessments to help understand how is the performance of the organisation against the goals
+Take ownership for results (personal accountability when there are bad results and appreciation for teams and individuals when there are good results)
+Involved in the process of supporting and involving teams in co-creating the right culture in the organisation
+
+
+What is the role of culture in transformation programs?
+----------------------------
+In today's corporate world, no one has a monopoly over time, resources, funding, process, etc. One could argue that the indeed the only real differentiator left is the culture of the organization. Most people mistakenly believe that culture can be simply copied by adopting some rituals or practices blindly. However, any great culture can never be "followed"...for it must be evolved by all the participants by collaborating together. And while there might not be a single comprehensive definition of the culture of an organization, it often could be understood from some of the most common social practices. So, what kind of culture does your organization have?
+
+The organization promotes the culture across the aspects mentioned below and it is committed to putting efforts and investing in these areas
+
+Mentoring & Coaching
+Learning
+Taking Initiatives
+Asking for help
+Transparency
+Risk Taking
+Participation
+Being Vulnerable
+Redefining awards & reecognition
+Individual career progression and not just performance appraisals
+Team Work
+Valuing Emotional Intelligence
+
+How are the transformation programs managed?
+------------
+
+Change management is mostly successful when taken at the appropriate level inside the organisation, its alignment to company's goals and objectives and how the efforts are tracked and its results are held accountable. How does your organization manage the change transformation programs?
+
+Strategy: Who created the agile transformation plan for your organisation? *
+Some outside business consulting firm without understanding the DNA & landscape of the enterprise have created transformation journey map.
+Hired few external coaches that worked with CXO's and created the transformation Journey roadmap
+Few Product & Process coaches worked with CXO's, Program Managers, Architects + teams and then created a draft Plan that was groomed over time after doing some pilot projects and getting learnings from it.
+We have chosen standard Scaled Framework like SAFe, DAD, LeSS , Spotify, Kanban System Design etc. with few hired coaches and doing standard transformation
+We have a set of coaches who are helping us to customize the standard Scaled Frameworks that will suit our enterprise need.
+Agile Transformation plan was not created
+
+Approach: How agile transformation is happening in your current organisation, what is your response as an enabler on the options given? *
+Big Bang approach, entire organisation is working on agile ways of working, planning & delivery
+Piloted on few hand picked Projects - Only Critical projects and customer facing are running in agile
+All new digital projects running in agile but not Legacy applications
+5 year roadmap where slowly plan is to move all the programs to agile
+The approach is ad-hoc
+
+The local flavours and reality:
+----------------------------
+Looking at India's global position in the market and Indian cultural context, we would like to learn more about these elements.
+We wish to gain insights into following 2 hypothesis, for organisations in India:
+(1) The type of work majorly taken up is a mix of maintenance, support work  as against  core product development or services based offerings. Fixed dates, price and outsourced projects driven majorly from parent companies outside of India is a reality for a software development and IT industry in India. The traditional project management practiced heavily in such cases, offers very little opportunity to take full scope agile transformation initiatives. 
+(2) Indian values of respecting hierarchy & elders and belief that "Boss is always right" or "You cannot say no and argue with your manager", prevent us from questioning the authority. Do the great Indian value of tolerance and patience, accelerate the progress one can make in agile adoption or act as hindrance? Does this stop our proactiveness? Does this limit our openness? 
+Further, we would like to study the impact of above two aspects on the state of agility in India.
+
+How does India's global position in the market affect agile transformation? *
+High impact
+Medium impact
+Low / No impact
+
+How does Indian cultural fabric affect agile transformation? *
+High Influence
+Medium Influence
+Low /No influence
+
+
