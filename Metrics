@@ -36,12 +36,50 @@ UI and UX Version of Ketchup bottle
 
 Build & Integration Frequency
 
+Production Incident Count
+
+
+
 Time to Pivot: Innovation Metrics -- How soon can we accomodate the change in the Market Conditions.
 Ex: GST got introduced, How soon can banking System adapt these new changes.
 Ex2: Covid --- Remote working -- How soon can u adapt to cahnges in operations. Ranging from 4 days to 45 days
 
 
 Introduction to the metrics depends on the Teams maturity
+
+Leakage ---------- Engineer + OPs Team together -- Only then We can have a robust fix.
+OPs Team can only throw the water in glass and put it back under the leaking tap.
+
+Release Stabilization Period -- No regression
+Ex: MS Excel. Old features matter more than new Features
+
+Lead Time for Changes
+Business ask ----------> time to build ( 1/2/3// Sprints)
+Prioritization of what matters most.
+
+Customer Cycle Time
+
+Time - to - Learn: - new technologies - Cloud, AI/ML, Dosckerization
+
+
+Employee Satisfaction:
+
+------------------------------
+
+Which Metrics to use depends on the Context
+
+Find out In whch quadrant does our Product fall? - Is it new? Is it Live?
+
+new Product: MVP focused. Innovation focused. New era Technology.
+Standardization -> Automation
+
+4 quadrant Product Stage Approach by Gartner
+
+
+
+
+
+
 
 
 
