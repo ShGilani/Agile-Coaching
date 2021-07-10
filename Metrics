@@ -1,0 +1,41 @@
+Current Value
+Time to Market
+Ability to Market
+Unrealized Value
+
+
+Metrics:
+----------------
+Customer Satisfaction Score/Index Survey, Net Promoter Score - Are we producing the right value for the Customers?
+
+Who are our Customers?
+
+Monthly Demoes, then more frequently
+
+Defect Trends: Unrealized Value
+------------------------------
+Product Cost Ratio:
+-----------------------------
+Change Failure Rate - DevOPs - Failure rate of the new Product Feature deployment
+
+DORA Framework / Accelerate Metrics: 
+--------------------------------------
+How fequently we are able to Push to Production
+
+
+Mean Time to resolve: MTTR - Operation Metrics for DevOPs/SRE Team
+How quickly can we resolve the incidents on Production
+
+If I dont play Soccer, It doesnt matter if Half of England is celebrating
+Development Team may not bother about OPs Metrics.
+
+Installed Version Index
+
+
+UI and UX Version of Ketchup bottle
+
+Build & Integration Frequency
+
+
+
+
