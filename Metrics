@@ -1,6 +1,8 @@
+Key Value Areas (KVAs)
+-----------------------------
 Current Value
 Time to Market
-Ability to Market
+Ability to Innovate
 Unrealized Value
 
 
@@ -180,6 +182,60 @@ Cost of Quality
 Cost of Overheads
 Innovation
 Customer Loyalty]Employe Happiness
+
+--------------------------
+Engineering Metrics: (Quality Metrics)
+-------------------
+Velocity Variance is important metrics.
+Cycle Time  -- how quick can u quickly work on PBI which is ready/refined (in Sprint Plan) build it and push it to Prod. It helps us guage effectiveness of Dev/QA/Op effectiveness.
+Lead Time: From Requirement to Delivery - PBI to Prod ( Concept to Cash)
+
+Cost of Delay
+
+Innovation  ( Velocity Variance may go high when working on innovation)
+Business Continuity (Number of Outages)
+
+Code Merge Rate
+Code Churn Rate
+Deploy Rate
+Build Rate
+Test Automation
+Defect Density
+Incidence Resolution Rate
+Response Time
+
+
+System Availability
+DevOPs Maturity
+
+Customer Satisfaction CSAT
+
+MMP - Minimum Marketable Product - Number of Features delivered in Quarter
+
+Epic/Feature Level Inspection and measuring the Metrics
+
+
+
+
+
+****** You dont start changing but You start highlighting the gaps from Day 1.
+
+--------------------------
+
+Review Effectiveness - Number of defects found in reviews
+
+----------
+
+mean time to recovery MTTR
+
+
+
+
+
+
+ 
+
+
 
 
 
