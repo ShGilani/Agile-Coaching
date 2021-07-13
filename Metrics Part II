@@ -1,5 +1,10 @@
+****Metrics helps us to Forecaste the Dates
 
-Development Function - Technical Excellence - Quality - Speed - Understanding of Business - Process in place 
+
+Technical Excellence: Maturity in Development and Delivery
+-------------------------------------------------------------------
+
+Development Function -  Quality - Speed - Understanding of Business - Process in place 
 ---------------------------
 Velocity Variance
 Review Effectiveness - Robustness of Review Process - Technical Review
@@ -10,7 +15,30 @@ Productivity - Velocity / Time spent on product work vs support work
 % of BATs - Business/Functional Automation Tests Developed
 Engineering Cycle Time
 Unit Test Coverage
+
+Delivery: DevOPs
+---------------
+DevOPs Tools in place (CI/CD Pipeline, Build automated, Unit Tests automated)
+Frequency of Deployment on Local/Central Env
+Release Cycle - Frequency of Release on Prod Env
+
+Support:
+-----------------
 Customer Bug resolution Time
+Volume of Customer Bugs / Incidents
+
+Site Reliability Team:
+-------------------------------
+System Availiability, Reliability
+Performance
+
+
+Overall as a Product:
+-------------------------------
+Customer Satisfaction Level - via CSAT Surveys, NPS
+Churn Rate (Customer attrition rate)
+
+Team Wellness/Health - Employee Engagement 
 
 
 
