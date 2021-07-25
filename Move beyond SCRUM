@@ -9,7 +9,7 @@ Optimization - Lean
 
 Lean Portfolio Management, SAFe Architecht
 
-ART - Agile Release Train
+ART - Agile Release Train, Solution Release Train
 
 --------------
 
@@ -37,7 +37,27 @@ Investment
 
 
 1 Portfolio will have 1 operation Value Stream (High Level) will have multiple Development Value Streams.
-When we study Multiple Portfolios (Multiple VS) will have something in common. We can identify Redundant components.
+When we study Multiple Portfolios (Multiple VS) will have something in common. We can identify Redundant components. Siloes get highlighted.
+
+How to make VS?
+-------------------------
+Have a Workshop with Architechts to figure out how Systems are connected. Specially when working with Legacy Products.
+
+1 OP VS at Bank level
+
+1 VS at Portfolio lvel. Ex: Loan, Cards,..
+
+--------
+
+RTE - Release Train Engineer: Need to coordinate across Program. Agile coach also plays role of RTE
+
+Enterprise Coach  
+Strategy Coach
+
+---------
+CxO layer -- branches under -- that many VS
+At first, Study the Org Chart.
+
 
 
 
