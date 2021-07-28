@@ -1,0 +1,8 @@
+"Indeed, backlogs themselves are a sign of slow lead times.'feature-to-production lead time' is our best measure of how responsive to change we are." Jason Gorman #noBackLogs
+
+		
+		everything that goes on between releases is really just guesswork. The magic happens when real end users get real working software, and we get to see how good our guesses were, and make more educated guesses in the next release cycle. We learn our way to value.
+		
+		I can’t guarantee that you’re building the right thing (you almost certainly aren’t, no matter how well you plan), but frequent releases offer you more throws of the dice.
+		
+		Releases are where the value gets delivered, and – more importantly – where the end user feedback starts, so we can learn what works and what doesn’t and adapt for the next release.
