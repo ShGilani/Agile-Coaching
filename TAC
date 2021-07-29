@@ -91,12 +91,18 @@ Value oriented Incremental Delivery
 Initiatives:
 ----------------
 - Customer Connects
-- Employee Connects with leadership
+- Frequent Employee Connects with leadership - Townhalls. Tell them whats going to happen in future.
 - Knowledge Share Sessions
 - Automation
 - Cyber Bugs
 - Release Cycle: in Weeks 
 - System Test: Test for Regression/Reliability/Performance ahppens in 5hrs
+
+Product Thinking: Team support Product untill Sustenance not just untill Project Plan.
+
+Are Product companies taking up Platform Mindset? Platform is also a Product.
+
+
 
 
 
