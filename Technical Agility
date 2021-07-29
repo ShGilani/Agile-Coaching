@@ -1,0 +1,75 @@
+3 Pillars:
+--------------
+Enterprise Agility: Culture & Collaboration
+Built in Quality: Product Stability - XP & Technical Practices
+Time to Market: Fast Delivery - DevOPs & CI/CD
+
+Built in Quality: (Product Quality)
+-----------------------
+Shift Left Quality/Testing - Fail early 0 in early phases of development
+Clean Code & Refactoring
+Agile Engineering Practices
+XP - TDD/ATDD, BDD, pairing/Mobbing - Fast feedack
+Trunk Based Development & Feature Toggle
+Chaos Engineering: Chaos Monkey Tool (uses Kubernetes) - to see how reliable is your Software/Service.
+War Room Testing/ Break-a-thon
+
+Architecture - MicroServices, Design
+
+High Availability
+Serverless
+AI
+
+DevOPs:
+--------------
+Containerized Deployment: Containers, Docker, Kubernetes
+Deployment on Cloud Vs On-Prem
+Automate Infrastructure Provisioning, Puppet, Chef, Ansible etc.
+Automate Deployment
+Continuous Delivery / Continuous Deployment
+Automate Monitoring & Feedback / Observability
+DevSecOps
+
+Enterprise Agility:
+-------------------------
+Agile Lean Values and Principles
+Scaling Frameworks
+Organization level metrics to enhance the right behaviour
+Cultural changes at Organizational level
+Leadership transformation stories / strategies
+
+Decentralized Decision Making, Empower. Give Power to the People who do the Work
+Customer/End user involved at every level. for feedback.
+
+
+
+
+VOID:
+
+Value oriented Incremental Delivery
+
+Initiatives:
+----------------
+- Customer Connects
+- Employee Connects with leadership
+- Knowledge Share Sessions
+- Automation
+- Cyber Bugs
+- Release Cycle: in Weeks 
+- 
+
+
+
+
+
+
+
+Bend Git like Beckham - Tips and Tools from the Trenches - 
+The new normal is a Myth! Prepare for the “never normal” with Anti-Fragile and Business Agility
+
+The SHIFT314 Evolutionary Leadership Framework (SELF): Scaling Excellence through People
+
+
+
+
+
