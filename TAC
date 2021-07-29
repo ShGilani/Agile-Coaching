@@ -15,6 +15,7 @@ Chaos Engineering: Chaos Monkey Tool (uses Kubernetes) - to see how reliable is 
 War Room Testing/ Break-a-thon
 
 Architecture - MicroServices, Design
+Branching Strategy
 
 High Availability
 Serverless
@@ -24,11 +25,22 @@ DevOPs:
 --------------
 Containerized Deployment: Containers, Docker, Kubernetes
 Deployment on Cloud Vs On-Prem
-Automate Infrastructure Provisioning, Puppet, Chef, Ansible etc.
+Infrastructure as Code: Automate Infrastructure Provisioning, Puppet, Chef, Ansible etc.
 Automate Deployment
 Continuous Delivery / Continuous Deployment
 Automate Monitoring & Feedback / Observability
-DevSecOps
+
+
+
+DevSecOps:
+Threat Modeling - Designing for Security (Book)
+SAST/DAST/IAST (Static/Dynamic Analysis and Security testing)
+Secret Managemnet: Vault
+Cloud native Security TerraScan (using Docker) by Accurics Company- Scan ur Kubernetes/Github/Terraform files etc for Vulnerabilities and Compliance Violations
+or add it to Pipeline
+
+
+
 
 Enterprise Agility:
 -------------------------
@@ -56,7 +68,9 @@ Initiatives:
 - Automation
 - Cyber Bugs
 - Release Cycle: in Weeks 
-- 
+- System Test: Test for Regression/Reliability/Performance ahppens in 5hrs
+
+
 
 
 
