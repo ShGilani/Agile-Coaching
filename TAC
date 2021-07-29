@@ -36,7 +36,7 @@ DevSecOps:
 Threat Modeling - Designing for Security (Book)
 SAST/DAST/IAST (Static/Dynamic Analysis and Security testing)
 Secret Managemnet: Vault
-Cloud native Security TerraScan (using Docker) by Accurics Company- Scan ur Kubernetes/Github/Terraform files etc for Vulnerabilities and Compliance Violations
+Cloud native Security TerraScan (using Docker) by Accurics Company- Scan ur Kubernetes/Github/Terraform files in cloud etc for Vulnerabilities and Compliance Violations
 or add it to Pipeline
 
 
