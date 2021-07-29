@@ -32,6 +32,7 @@ Automate Monitoring & Feedback / Observability
 
 
 
+
 DevSecOps:
 Threat Modeling - Designing for Security (Book)
 SAST/DAST/IAST (Static/Dynamic Analysis and Security testing)
