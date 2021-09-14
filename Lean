@@ -1,1 +1,23 @@
- traditional organizational structure broken down by function, and their PMO uses resource planning based on work breakdown and expert estimates to see how much capacity is consumed by current projects and other expected work. If there is any space available, they usually kick off a new project. Though the PMO strives to only allocate 85% of the total capacity to this expected work, they still end up with projects being stalled due to dependencies, and people find themselves working overtime more often than not. 
+ traditional organizational structure broken down by function, and their PMO uses resource planning based on work breakdown 
+ and expert estimates to see how much capacity is consumed by current projects and other expected work. 
+ If there is any space available, they usually kick off a new project. Though the PMO strives to only allocate 85% of the total capacity to this expected work,
+ they still end up with projects being stalled due to dependencies, and people find themselves working overtime more often than not. 
+ 
+  Principle number one is eliminate waste. Eliminating waste is often misidentified as the goal of lean, because it's what people seem to focus on the most. It is, however, an important step to achieve the true goal, which is quick and sustainable delivery of value to the customer.
+  
+   Eliminating waste can take many forms, such as 
+   - removing unnecessary activities in the process, 
+   - developing only features that add significant value to the customer,
+   - reducing churn by doing things at the right time,
+   - reducing dependencies and delays caused by inappropriate organizational boundaries. 
+   
+   . Principle number two is build quality in. Building quality in means starting with quality as a key requirement. Instead of relying solely on a robust testing process after the work has been completed, lean teams take steps to prevent defects from occurring in the first place. 
+   Some common techniques teams use to build quality in include test-driven development, automated testing, continuous integration, refactoring.
+   
+    Principle number three is create knowledge (Amplify Learning). 
+    Lean software development teams make learning a priority through using 
+    a *****scientific hypothesis-based approach***** to experiment and learn through any outcome, challenging the status quo, 
+    and honing the team's ability to respond to unexpected situations. Tools like Kata, set-based design, and A3 help master these capabilities. 
+    
+    
+  
