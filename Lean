@@ -1,0 +1,42 @@
+Decision on Investment - phase:
+---------------------
+- Will the project be canceled? 
+- Will it be used? 
+- How quickly will it be used? 
+We should be spending our time focusing on those questions, not the question of cost. Yet, typically cost is where we spend most of our time.
+
+second problem - We batch up work into big Project:
+--------------
+ Perhaps the biggest one is that we tend to batch up work into these huge projects by combining a lot of high-value features with very low-value features,
+ and you deliver all of them at the same time and effectively with the same priority because you delivered them all in one-go.
+ 
+ ***** Look at Cost of delay to prioritize the features *********:
+ --------------------------------------------------------------
+ Opportunity Cost - Cost of not building this feature
+ . Cost of delay, very briefly, looks at the opportunity costs of not building those features and how much it's costing you to not build those features per unit time, say, per week.
+ By looking at how much you're losing by not building those features, you can prioritize the features. 
+ The team sat in a room for a few days and looked at all those thousands of requirements and worked out the cost of delay of not building them. 
+ What they found, as shown on this graph, is that there was a very small number of features, about three features, that had a cost of delay above one billion dollars per week.
+ Then, there was a really long tail of features that delivered a cost of delay much, much lower than that. 
+ All those features were gonna be delivered in big batches in projects. When you see this graph, it becomes very clear what you should do. 
+ What you should be doing is not building all those low-value features, but instead building the three, very high-value features and prioritizing that and getting your entire team to work on that as a matter of priority and releasing them as quickly as possible. 
+ This distribution, which is a power distribution, is very typical when you look at projects to see this kind of distribution of features. 
+ If you're delivering all these features in big batches, that's a really big problem.
+ 
+  Well, you expedite one thing, you have to drop something else on the floor. So, some other project gets slowed down and then their project manager comes and says, please expedite our stuff and then our stuff gets slowed down. The outcome of this is that everyone moves at the same glacial pace. You need to create transparency into the high-value work across the whole organization and everyone needs to know what that is.
+  That's the only way to make sure that you can get the high-value stuff done quickly and not worry about the low-value stuff. 
+  
+  --------------
+  
+   To summarize the problems with the waterfall paradigm and even Agile paradigms, where we haven't transformed the entire value stream, but have focused only on development. 
+   
+   - Number one, we tend to place a lot of focus on managing cost instead of thinking about value and the value we're gonna deliver to our customers and our organization. 
+   - Number two, we're not making our investment decisions using economic models. Instead, we're using decision by committee and the highest paid person's opinion. 
+   - Number three, we're batching work up into these huge projects. There's no effective prioritization of the high-value work. Everything moves at the same glacial pace.
+   - Number four, our feedback loops are too slow. 
+   - Fifth, we completely waste the creative potential of our people. If all the requirements are decided up-front and the development teams have no ability to change what they're working on and experiment with new ideas based on actual customer feedback, then those people are basically just building stuff that they've been told to build. 
+     The only people with creative impact in your organization are the people building the requirements and the executives. That's a massive waste of human potential.
+     
+     
+   
+   ----------------------
