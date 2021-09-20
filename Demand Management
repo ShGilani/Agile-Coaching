@@ -37,6 +37,81 @@ second problem - We batch up work into big Project:
    - Fifth, we completely waste the creative potential of our people. If all the requirements are decided up-front and the development teams have no ability to change what they're working on and experiment with new ideas based on actual customer feedback, then those people are basically just building stuff that they've been told to build. 
      The only people with creative impact in your organization are the people building the requirements and the executives. That's a massive waste of human potential.
      
+     -------------
+     
+     - In this unit, I'm gonna present five principles that are the heart of high-performance program management. 
+     Number one, collaborate to set measurable outcomes at the program level. 
+     Number two, teams work to test and design hypotheses. 
+     Number three, create fast feedback loops. 
+     Number four, work in small batches. 
+     And number five, create a culture of experimentation.
+     
+     I have a real problem with this word requirements. 
+     Whose requirements are they? Well they're not typically the user's requirements, because users don't know what they want. 
+     Users know what they don't want once you've built it for them. They're the requirements of the HiPPO, the highly paid person. 
+     So we shouldn't be talking about requirements, we should be talking instead about hypotheses. 
+     
+     So I'm sure many of you are familiar with the agile story format. 
+     As a mmm, I want mmm, so that yay. 
+     But there's a problem with this format. Many of you I'm sure, like me, have seen stories without the so that at the end. 
+     Everyone knows that, that's obvious. Well actually no, that's the most important piece. 
+     What's the measurable value we're delivering and how can we express it in terms of a measurable outcome?
+     
+     really like this format that was proposed by Jeff Gothelf in his excellent book Lean UX. 
+     In this format he says - 
+     "we believe that building <<this feature>> for <<these people>> will achieve <<this outcome>>. We'll know we're successful when we see <<this signal>> from the users."
+     
+     User Research / Design Experiments:
+     ------------------------------------------
+     for any major feature you should be designing experiments and executing experiments before anyone writes a single line of code.
+     
+     You can divide user research up into qualitative and quantitative user research, 
+     and you could look at user research in both generative ways, which is ways of producing new ideas, 
+     and evaluative ways which is looking at ideas and finding out which ones are good and which ones are bad. 
+     
+     Qualitative ways:
+     ---------------------
+      qualitative ways of creating ideas like contextual inquiry. 
+      Going and watching people solve problems and execute business processes in their natural environment, and finding out what they do and how we can make that process smoother and more effective. 
+      Then qualitative ways of evaluating ideas, things like usability testing or follow-me-homes. Going and showing people prototypes or even paper prototypes, and seeing how they respond to those. 
+      
+  The gold standard of quantitative evaluation is A/B testing. A/B testing is when you present two different options to a large cohort of people, and then you see, using statistical analysis, which of those options will most likely produce the desired outcome.
+       
+       
+   Amazon deployment example: 
+   Short feedback loops. Deploy your experiment on production and see the results. deploy multiple times in a day on production Env. Have Innovation Culture.
+   Creativity must flow from everywhere. Whether you're a summer intern or the CTO, any good idea must be able to seek an objective test, preferably a test that exposes the idea to real customers. Everyone must be able to experiment, learn, and iterate.   
+     
+     also have some questions for you to think about. How easy is it for someone to take a change and apply it in to production? Do they have to ask permission first? How long does it take to go through the value stream to get a change into production if you're building a prototype or an experiment? How often can you do that, what's the lead time? Is it even possible for someone in your organization to do that without having to go through the whole software delivery lifecycle for a normal feature?
+   
+    They were spending 20% of their budget on the engineers supporting this very detailed planning process, which was basically the symptom of a break down of trust between the product people and the developers.
+    
+    What is your Innovation Capacity? Vs Non-Value-add work - Remove the waste
+    -------------------------------------------------------
+    Product Support
+    Manual Testing
+    Code Porting to diff branches
+    Code Integration & Deployment
+    Detailed Planning
+    
+    
+    Check the Cycle Times:
+    ------------------
+    Full manual regression - x weeks
+    Commit to trunk - x weeks
+    Build/per day - x
+    
+    
+That allowed them to practice continuous integration, perhaps the most important lean engineering practice. This is the practice of checking code into trunk, regularly and every time you do that, you run tests and get feedback and fix the problem straight away, remember earlier we were talking about working in small batches and getting feedback, continuous integration is a powerful way to do that. They invested a great deal into test automation, so they could get feedback to the developers quickly, rather than at the end of the release during this six week regression process. 
+    
+    
+  . This change in development process and investment in engineering practices caused a huge shift on the economics of the software delivery process. Instead of spending 10% of their budget on integration, they were spending 2% of their budget on continuous integration. Planning went down from 20% to 5%. Porting code went away, although they still had to spend some effort on managing the branches, 15%. Product support goes down from 25% to 10%, that demonstrates a huge improvement in quality. Manual testing goes down from 15% to 5%, because most testing is automated, and we achieve an increase in budget spent on innovation of 8x, budget spent of innovation goes from 5% to 40%, that's an 8x improvement on productivity, measured in terms of budget spent on innovation. I mean that's an enormous shift, it's not 5 or 10% improvement, it's an 8x improvement.
+  
+   Detailed planning went down from 20% of budget to 5% of budget, they moved to a lightweight planning process. 
+   
+    
+    
+    
      
    
    ----------------------
