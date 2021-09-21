@@ -1,0 +1,20 @@
+
+3 types of Activities:
+Value Added Activity
+Waste - Necessary and Un-necessary
+
+Activities that don't add value but must be done to support the process that creates value are called "necessary waste."
+
+
+One of my favorite mantras is 
+maximize the amount of work not done. 
+This requires practice in discerning the value from the waste, and the necessary from the unnecessary. 
+With that skill we can identify and eliminate waste in a way that helps up to move quickly, deliver more customer value, and have happy teams in the process.
+
+Waste #1: Partially done work
+Waste #2: Extra Features (t 80% of features and functions have low to no value. Creating all of these extra features leads to an unnecessarily complex code base that's difficult to maintain and build upon. This buildup is one of the reasons big businesses often deliver more slowly than their startup counterparts. We rarely remove features from software upon learning that they are rarely used. )
+Waste #3: Re-learning (We are constantly learning and sometimes, that learning is captured and recorded in a way that makes it easy to recall. Other times, we fail to capture our learnings at all or we document so much in so many places that we can't find anything amongst the chaos. Even worse is when we have a wealth of information and expertise available to us via our colleagues and we don't make use of it.)
+Waste #4: Hand-offs (. There is always a level of tacit or implied knowledge that exists. It is estimated that each time you hand off a piece of work to someone else, as much as 50% of that tacit knowledge is lost.)
+Waste #5: Task-switching ( Every time you put one task aside to start another, you incur the cost of time lost to context switching. )
+Waste #6: Delay (dependency. Many organizations have functional work structures. In this kind of organization, work must pass through multiple teams in order to be completed. Combine that with overworked specialists in those functions and you get serious delays, even if everything looked okay on your project plans and capacity charts. Statistics show that every dependency you add doubles the chances your work will experience delay)
+Waste #7: Defects ( Each time a defect is found, it creates failure demand. Failure demand is the work you have to do now because something wasn't done properly in the past. Lean software development teams put more focus on preventing defects in the first place, than it does finding and fixing them. )
