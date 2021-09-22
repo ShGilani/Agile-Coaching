@@ -18,3 +18,41 @@ Waste #4: Hand-offs (. There is always a level of tacit or implied knowledge tha
 Waste #5: Task-switching ( Every time you put one task aside to start another, you incur the cost of time lost to context switching. )
 Waste #6: Delay (dependency. Many organizations have functional work structures. In this kind of organization, work must pass through multiple teams in order to be completed. Combine that with overworked specialists in those functions and you get serious delays, even if everything looked okay on your project plans and capacity charts. Statistics show that every dependency you add doubles the chances your work will experience delay)
 Waste #7: Defects ( Each time a defect is found, it creates failure demand. Failure demand is the work you have to do now because something wasn't done properly in the past. Lean software development teams put more focus on preventing defects in the first place, than it does finding and fixing them. )
+
+TDD ------- start like a delibrate practice -------make a natural practice.
+
+ kata refers to any basic routine or pattern of behavior. In lean, it specifically refers to the combination of improvement kata and coaching kata.
+ These kata don't necessarily feel natural at first but with deliberate practice and persistence, teams learn how to craft low risk experiments and most importantly, how to learn from them. 
+ 
+ Commit as late as possible
+ Deferring commitment until the last responsible moment isn't a clever procrastination technique.
+ It is a way to ensure that decisions are only made when there's enough information available to make a good decision. 
+ Whether it's a decision about a particular technology or exactly how you'll accommodate a customer need within the product.
+ Making a commitment too early can be limiting at best and disastrous at worst.
+ 
+  Creating the ability to defer decisions without excessive cost takes effort. 
+  
+   Creating change tolerant designs allows you to go back and make changes when you learn more information. 
+   
+   *****creating flexibility in your software is key to being able to postpone technical decisions. ******
+   *****Not only does it allow you to get started without having all of the decisions made, it also allows you to more easily change your mind in the future.*****
+   
+   Kanban:
+    Implementing WIP limits helps you reduce the amount of work and stress, down to a more manageable level. With the distraction of excess work demands pushed out of sight, you can focus on finishing the remaining work faster.
+    
+    Self-Direction:
+    -------------------------------------
+     There are a few lean tools that promote self-direction in a lean team: the Kanban, the Andon, and the Dashboard. 
+     . This lets people manage their work on a day-to-day basis. Because they can easily see all work in process, it's easier to question things like the urgency of a piece of work in relation to others, or if they should start something new instead of finishing something or alleviating a bottlenecked activity. Another visual tool used for self-direction is the Andon. In lean, an Andon is a visual tool that calls attention to issues or exceptions to the norm. Visual tools that let you know when a build has failed or a light that comes on when a monitoring threshold has been exceeded are both examples of an Andon. Tools like an Andon reduce the need for a supervisor hovering over the team to alert them to problems.
+     
+     Books: Implementing Lean Software Development, and add a recommendation for the book, The Lean Mindset, both by Tom and Mary Poppendieck. 
+     
+     
+     
+     
+     
+     
+   
+   
+   
+ 
